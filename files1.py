@@ -1,1 +1,2 @@
-inserted text first time
+inserted again
+removed first line
